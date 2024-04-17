@@ -38,7 +38,20 @@ PR은 환영입니다.
     - https://toss.tech/
 
 # YouTube Channels
-- 우아한 테크
-    - https://www.youtube.com/@woowatech
+- 네이버
+    - [DEVIEW 2023](https://deview.kr/2023)
+- 카카오
+    - [카카오 테크](https://www.youtube.com/@kakaotech)
+    - [if kakao 2022](https://if.kakao.com/session)
+- 토스
+    - [SLASH 23](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL)
+- 우아한 형제들
+    - [우아한 테크](https://www.youtube.com/@woowatech)
+- 인프런
+    - [INFCON 2023](https://www.youtube.com/playlist?list=PLpkj8RKr48waFtrqvJjbNrpGCvdxyX8Nx)
+- AWS Korea
+    - [AWS Innovate 2022](https://www.youtube.com/playlist?list=PLORxAVAC5fUXJUUqptRtyDasuklx3SCmX)
 - NHN Cloud
-    - https://www.youtube.com/@NHNCloud
+    - [NHN Cloud](https://www.youtube.com/@NHNCloud)
+- goorm
+    - [goorm 모두가 개발자가 된다](https://www.youtube.com/@goorm/videos)
