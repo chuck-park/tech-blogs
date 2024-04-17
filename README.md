@@ -55,3 +55,5 @@ PR은 환영입니다.
     - [NHN Cloud](https://www.youtube.com/@NHNCloud)
 - goorm
     - [goorm 모두가 개발자가 된다](https://www.youtube.com/@goorm/videos)
+- FE Con
+    - [FEConf Korea](https://www.youtube.com/channel/UCWEzfYIpFBIG5jh6laXC6hA/videos)
