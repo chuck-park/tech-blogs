@@ -36,6 +36,8 @@ PR은 환영입니다.
     - https://medium.com/daangn
 - 토스
     - https://toss.tech/
+- 화해
+    - https://blog.hwahae.co.kr/category/all/tech
 
 # YouTube Channels
 - 네이버
