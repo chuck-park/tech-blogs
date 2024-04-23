@@ -36,8 +36,14 @@ PR은 환영입니다.
     - https://medium.com/daangn
 - 토스
     - https://toss.tech/
+- Netflix
+    - https://netflixtechblog.com/
 - 화해
     - https://blog.hwahae.co.kr/category/all/tech
+- 강남언니
+    - https://blog.gangnamunni.com/blog/tech/
+- 버즈빌
+    - https://tech.buzzvil.com/
 
 # YouTube Channels
 - 네이버
